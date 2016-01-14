@@ -1,0 +1,27 @@
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "https://www.hobbymining.com" # the base hostname & protocol for your site
+title: "Hobby Mining"
+
+# This is used by feed.xml. Uncomment if you want to use it.
+# description: "..."
+
+exclude:
+  - "README.md"
+  - "CHANGELOG.md"
+  - "CNAME"
+  - "Gemfile"
+  - "Gemfile.lock"
+permalink: :title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
