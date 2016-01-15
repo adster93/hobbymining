@@ -1,11 +1,11 @@
 ---
 title: "Bitcoin Mining Hardware ASICs and Rigs"
 permalink: "/mining-hardware/"
-seotitle: "Bitcoin Mining Hardware ASIC & Rigs for Sale New & Used"
+seotitle: "Bitcoin Mining Hardware ASICs, USBs & Rigs Guide"
 layout: page
 ---
 
-Gone are the days of mining bitcoin from your computer with a Bitcoin USB miner. Today, you need the best bitcoin mining hardware to compete with large scale mining operations in China. 
+Gone are the days of mining bitcoin from your computer with a Bitcoin USB miner. Today, you need the best bitcoin mining hardware to compete with [large scale mining operations in China](/bitcoin-mining-in-china/). 
 
 Hobby mining can still be fun and even slightly profitable if you have cheap electricity, a good bitcoin mining rig, and can find a place to get cheap Bitcoin mining hardware. 
 
@@ -13,42 +13,53 @@ If you're ready to get started, read on to learn about where to buy bitcoin mine
 
 ## What is an ASIC Bitcoin Miner?
 
-Since it's now impossible to mine Bitcoin with your computer, you'll need specialized hardware called ASICs. 
+Since it's now impossible to profitably mine Bitcoin with your computer, you'll need specialized hardware called ASICs. 
 
 Originally, Satoshi intended for Bitcoin to be mined on computer CPUs. However, Bitcoin miners discovered they could get more hashing power from graphic cards. Graphic cards were then surpassed by ASICs ([Application Specific Integrated Circuits](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)). 
 
-Nowadays all serious Bitcoin mining is performed on dedicated Bitcoin mining hardware ASICs, usually in thermally-regulated data-centres with access to low-cost electricity. Think of a Bitcoin ASIC as specialized Bitcoin mining computers, Bitcoin mining machines, or "bitcoin generators".  
+Nowadays all serious Bitcoin mining is performed on dedicated Bitcoin mining hardware ASICs, usually in thermally-regulated data-centers with access to low-cost electricity. Think of a Bitcoin ASIC as specialized Bitcoin mining computers, Bitcoin mining machines, or "bitcoin generators".  
 
 ## How to Find the Best Bitcoin Miner
 
-There are some important factors to look at when determing which Bitcoin mining ASIC to buy:
+There are some important factors to look at when determening which Bitcoin mining ASIC to buy:
 
-**Hash rate** - How many hashes per second? 
+**Hash rate** - How many hashes per second can the Bitcoin miner make? More hashes cost more, which is why efficiency is crucial... 
 
-**Efficency** - You'll want to buy the most efficient bitcoin mining hardware possible. Since miners use a large amount of electricty, you want to buy one that converts the most amount of electricty into bitcoins. 
+**Efficiency** - You'll want to buy the most efficient bitcoin mining hardware possible. Since miners use a large amount of electricity, you want to buy one that converts the most amount of electricity into bitcoins. 
 
-**Price** - How much does the bitcoin miner cost? Cheap mining hardware will mine less bitcoins, which is why efficiency and electricty usage are important. The fastest and more effecient mining hardware is going to cost more.
+**Price** - How much does the bitcoin miner cost? Cheap mining hardware will mine less bitcoins, which is why efficiency and electricity usage are important. The fastest and more effecient mining hardware is going to cost more.
 
 Don't try to buy a miner based on only price or only hash rate. The best ASIC miner is the **most effecient bitcoin miner.** Aim for value.
 
-## 1. Used Bitcoin Mining Hardware for Sale
+## Bitcoin Miners for Sale on Amazon
 
-Old bitcoin mining rigs are available on eBay. One may want to buy used ASIC mining hardware on eBay because you can get better prices. eBays customer protection ensures you'll get a working product. 
+If you're a hobby miner who wants to buy a couple rigs for your house, Amazon has some decent deals on mining hardware. 
 
+The [Spondoolies-Tech SP20 Jackson](http://amzn.to/1NbfbLz){:rel="nofollow"} is available for about $350.00 and hashes at 1.3-1.7 TH/S. 
 
-## 2. Bitcoin Miners for Sale on Amazon
+The [Antminer S7](http://amzn.to/1Nbfy95){:rel="nofollow"} comes in at $1,599.99, but mines at ~4.73TH/s.  
 
-## Bitcoin Mining Hardware Setup
+## Used Bitcoin Mining Hardware for Sale
+
+Both new and used bitcoin mining rigs and ASICs are available on eBay. One may want to buy used ASIC mining hardware on eBay because you can get better prices. eBay's customer protection ensures you'll get a working product. Other bundles equipment may be included with your purchase depending on the seller. 
+
+We recommend purchasing the <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804714&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Antminer S7</a> or the <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804716&customid=&icep_uq=Spondoolies-Tech+SP20&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Spondoolies-Tech SP20</a>.
+
+## Hardware Profitability
+
+You can use a [bitcoin mining profitability calculator](https://99bitcoins.com/c/btc/mining) to determine your estimated cost of return on your mining hardware. 
+
+Be sure to take electricity costs into account. Most mining hardware appears profitable until electricity costs are accounted for. 
 
 ## Bitcoin Mining Hardware Companies
 
-#### Antminer
+**[Bitmain](https://www.bitmaintech.com/product.htm)** - Bitmain makes the Antminer line of Bitcoin miners. Bitmain is based in China and also operates a mining pool. 
 
-#### BitFury
+**[BitFury](http://www.bitfury.org/)** - BitFury is one of the largest producers of Bitcoin mining hardware and chips. Its hardware is not available for purchase. 
 
-#### Butterfly Labs
+**[21 Inc.](https://21.co/)** - 21 Inc. is a Bitcoin mining company based in California. It sells low powered bitcoin miners as part of their 21 Bitcoin computer. 
 
-#### KnCMiner
+**[Spondoolies Tech](http://www.spondoolies-tech.com/)** - Spondoolies Tech is an Israeli based mining hardware manufacturer.
 
 ## Bitcoin Mining Equipment
 
@@ -56,7 +67,7 @@ In addition to a Bitcoin mining ASIC, you'll need some other Bitcoin mining equi
 
 * **Power Supply** - Bitcoin rigs need special power supplies to funnel and use electricity efficiently. 
 
-You can find  <a target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&icep_uq=bitcoin+miner+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Bitcoin mining equipment for sale on eBay</a><img style="text-decoration:none;border:0;padding:0;margin:0;" src="http://rover.ebay.com/roverimp/1/711-53200-19255-0/1?ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&uq=bitcoin+miner+power+supply&mpt=[CACHEBUSTER]">. 
+You can find  <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&icep_uq=bitcoin+miner+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Bitcoin mining equipment for sale on eBay</a><img style="text-decoration:none;border:0;padding:0;margin:0;" src="http://rover.ebay.com/roverimp/1/711-53200-19255-0/1?ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&uq=bitcoin+miner+power+supply&mpt=[CACHEBUSTER]">. 
 
 ## Bitcoin Mining Without Hardware? 
 
@@ -64,11 +75,11 @@ It's still technically possible to mine bitcoins without dedicated mining hardwa
 
 ## USB Bitcoin Miners
 
-Using a Bitcoin USB miner with your computer was once a profitable way to mine bitcoins. Today, however, USB miners don't generate enough hashing power to mine profitably. If you just want to get a Bitcoin miner USB to learn, a USB block erruprter is a good cheap Bitcoin miner. Some of your options are displayed below.
+Using a Bitcoin USB miner with your computer was once a profitable way to mine bitcoins. Today, however, USB miners don't generate enough hashing power to mine profitably. If you just want to get a Bitcoin miner USB to learn, a USB [block erupter from Amazon](http://amzn.to/1QaHMr0){:rel="nofollow"} or <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=bitcoin+usb+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">eBay</a> is a good cheap Bitcoin miner. Some of your options are displayed below.
 
 ## Understanding Competition
 
-Even if you buy mining hardware from Amazon or eBay, you're up against massive competition. Mining farms in China make up 60% of the Bitcoin network's hash rate. The video below will help you understand just how big mining farms in China really are:
+Even if you buy mining hardware from Amazon or eBay, you're up against massive competition. [Mining farms in China](/bitcoin-mining-in-china/) make up 60% of the Bitcoin network's hash rate. The video below will help you understand just how big mining farms in China really are:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/K8kua5B5K3I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
