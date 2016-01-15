@@ -44,3 +44,9 @@ BW, established in 2014, is another mining company based in China. It currently 
 The video below offers an inside look at how Bitcoin mining farms in China operate. 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/K8kua5B5K3I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## More Insight on Bitcoin Mining in China
+
+If you want even more information about the Chinese Bitcoin mining scene, watch this speech by Jihan Wu's (Co-founder of BITMAIN) Presentation at the Israeli Bitcoin Conference.
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=XTsGRiup0Wc&start=1146" frameborder="0" allowfullscreen></iframe>
