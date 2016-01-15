@@ -5,6 +5,10 @@ title: "Hobby Mining"
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
 
+collections:
+  miners:
+    output: true
+
 exclude:
   - "README.md"
   - "CHANGELOG.md"
