@@ -2,23 +2,16 @@
 layout: page
 lang: en
 permalink: "/bitcoin-mining-pools/"
-seotitle: "The 10 Biggest Bitcoin Mining Pools and Companies"
-title: "10 Biggest & Best Bitcoin Mining Pools and Companies"
+seotitle: "10 Biggest Bitcoin Mining Pools and Companies"
+title: "Biggest & Best Bitcoin Mining Pools and Companies"
 desc: F2Pool, AntPool, and Bitfury currently lead the highly competitive Bitcoin mining industry. 
 summary: F2Pool, AntPool, and Bitfury currently lead the highly competitive Bitcoin mining industry. 
 ---
 Bitcoin miners are crucial to Bitcoin and its security. Without miners, Bitcoin would be vulnerable and easy to attack. Most Bitcoin users don't mine. However, miners are responsible for the creation of all new bitcoins and a fascinating part of the Bitcoin ecosystem. 
 
-Mining, once done on the average home computer, is now mostly done in large, specialized warehouses. These warehouses usually direct their hashing power towards mining pools. What is a mining pool? [BitcoinMining.com](https://www.bitcoinmining.com/bitcoin-mining-pools/) breaks it down: 
+Mining, once done on the average home computer, is now mostly done in large, specialized warehouses. These warehouses usually direct their hashing power towards mining pools. What is a mining pool? Here's the definition from Buy Bitcoin Worldwide: 
 
-<blockquote>
-<p>Bitcoin mining pools are a way for Bitcoin miners to pool their resources together and share their hashing power while splitting the reward equally according to the amount of shares they contributed to solving a block.
-</p> 
-
-<p>A "share" is awarded to members of the Bitcoin mining pool who present a valid proof of work that their Bitcoin miner solved. Bitcoin mining in pools began when the difficulty for mining increased to the point where it could take years for slower miners to generate a block. </p> 
-
-<p>The solution to this problem was for miners to pool their resources so they could generate blocks quicker and therefore receive a portion of the Bitcoin block reward on a consistent basis, rather than randomly once every few years. </p> 
-</blockquote>
+Mining pools are groups of cooperating miners who agree to share block rewards in proportion to their contributed mining hashing power. While mining pools are desirable to the average miner as they smooth out rewards and make them more predictable, they unfortunately concentrate power to the mining pool’s owner. Miners can, however, choose to redirect their hashing power to a different mining pool at anytime. 
 
 While we can see which mining pools are the largest, it’s important to understand that the hash power pointed towards a mining pool isn’t necessarily owned by the mining pool itself. There are a few cases, like with BitFury and KnCMiner, where the company itself runs the mining operation but doesn’t run a mining pool. 
 
