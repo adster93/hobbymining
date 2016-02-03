@@ -4,7 +4,7 @@ permalink: "/bitcoin-mining-in-china/"
 seotitle: "Bitcoin Mining in China"
 layout: page
 ---
-China is a world leader in Bitcoin mining and trading. Chinese mining pools control more than 60% of the network hash rate. Massive mining farms are located in China and pointed at these mining pools. 
+China is a world leader in Bitcoin mining and trading. Chinese [mining pools](/bitcoin-mining-pools/) control more than 60% of the network hash rate. Massive mining farms are located in China and pointed at these mining pools. 
 
 So, why is China the world's leader in Bitcoin mining? 
 
