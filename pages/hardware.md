@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Mining Hardware ASICs and Rigs"
 permalink: "/mining-hardware/"
-seotitle: "5 Best Bitcoin Mining Machines and Modules Hardware ASICs"
+seotitle: "5 Best Bitcoin Mining Machines and Module Hardware 2016"
 layout: page
 ---
 
