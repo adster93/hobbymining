@@ -88,5 +88,3 @@ Even if you buy mining hardware from Amazon or eBay, you're up against massive c
 Don't confuse Bitcoin hardware wallets and Bitcoin mining hardware. Mining hardware mines for bitcoins, while hardware wallets provide secure storage for bitcoins. For more information on hardware wallets, visit [Cold Hardware](https://www.coldhardware.com/). 
 
 ## Further Information
-
-* Check out [this page on the Bitcoin Wiki](https://en.bitcoin.it/wiki/Mining_hardware_comparison) for a list of Bitcoin miners
