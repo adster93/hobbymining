@@ -17,6 +17,14 @@ iframe {
 	max-width: 100%;
 }
 
-.kb-what-is-mining {
-    max-width: 250px !important;
+
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Remove next line to return to regular container width */ 
+
+.container {
+    max-width: 760px !important;
 }
