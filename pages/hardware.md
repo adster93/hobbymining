@@ -82,9 +82,3 @@ Using a Bitcoin USB miner with your computer was once a profitable way to mine b
 Even if you buy mining hardware from Amazon or eBay, you're up against massive competition. [Mining farms in China](/bitcoin-mining-in-china/) make up 60% of the Bitcoin network's hash rate. The video below will help you understand just how big mining farms in China really are:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/K8kua5B5K3I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-## Hardware Wallets vs. Mining Hardware
-
-Don't confuse Bitcoin hardware wallets and Bitcoin mining hardware. Mining hardware mines for bitcoins, while hardware wallets provide secure storage for bitcoins. For more information on hardware wallets, visit [Cold Hardware](https://www.coldhardware.com/). 
-
-## Further Information
