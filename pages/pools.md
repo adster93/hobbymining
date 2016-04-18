@@ -2,7 +2,7 @@
 layout: page
 lang: en
 permalink: "/bitcoin-mining-pools/"
-seotitle: "10 Biggest Bitcoin Mining Pools and Companies"
+seotitle: "10 Best and Biggest Bitcoin Mining Pools 2016"
 title: "Biggest & Best Bitcoin Mining Pools and Companies"
 desc: F2Pool, AntPool, and Bitfury currently lead the highly competitive Bitcoin mining industry. 
 summary: F2Pool, AntPool, and Bitfury currently lead the highly competitive Bitcoin mining industry. 
@@ -54,17 +54,20 @@ GHASH.IO used to be the largest mining pool, with over 50% of the network. Howev
 Bitcoin mining tends to gravitate towards countries with cheap electricity. As Bitcoin mining is somewhat centralized, 10-15 mining companies have claimed the vast majority of network hash power. With many of these companies in the same country, only a number of countries mine and export a significant amount of bitcoins. 
 
 ## China
+
 [China mines the most bitcoins](/bitcoin-mining-in-china/) and therefore ends up "exporting" the most bitcoins. Electricity in China is very cheap and has allowed Chinese Bitcoin miners to gain a very large percentage of Bitcoin's hash power. It’s rumored that some Chinese power companies point their excess energy towards Bitcoin mining facilities so that no energy goes to waste. 
 
 China is home to many of the top Bitcoin mining companies: [F2Pool](https://www.f2pool.com), [AntPool](https://www.antpool.com/home.htm), [BTCC](https://pool.btcc.com/), and BW. It's estimated that these mining pools own somewhere around 60% of Bitcoins hash power, meaning they mine about 60% of all new bitcoins.  
 
-##Georgia
+## Georgia
+
 Georgia is home to [BitFury](http://www.bitfury.org/), one of the largest producers of Bitcoin mining hardware and chips. BitFury currently mines about 15% of all bitcoins. 
 
-##Sweden
+## Sweden
+
 Sweden is home to KnCMiner, a Bitcoin mining company based in Stockholm. [KnCMiner](http://www.kncminer.com/) currently mines about 7.5% of all bitcoins. 
 
-##United States
+## United States
 The United States is home to [21 Inc.](https://21.co/), a Bitcoin mining company based in California. 21 runs a large amount of miners, but also sells low powered bitcoin miners as part of their 21 Bitcoin computer. Most of the hash power from the 21 Bitcoin computers is pointed towards 21’s mining pool. 21 Inc. mines about 3% of all bitcoins. 
 
 The countries above mine about 80% of all bitcoins. The rest of the hash power is spread across the rest of the world, often pointed at smaller mining pools like [Slush](https://mining.bitcoin.cz/home/) (Czech Republic) and [Eligius](http://eligius.st/~gateway/) (United States). 

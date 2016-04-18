@@ -47,7 +47,7 @@ We recommend purchasing the <a rel="nofollow" target="_self" href="http://rover.
 
 ## Hardware Profitability
 
-You can use a [bitcoin mining profitability calculator](https://99bitcoins.com/c/btc/mining) to determine your estimated cost of return on your mining hardware. 
+You can use a bitcoin mining profitability calculator to determine your estimated cost of return on your mining hardware. 
 
 Be sure to take electricity costs into account. Most mining hardware appears profitable until electricity costs are accounted for. 
 
