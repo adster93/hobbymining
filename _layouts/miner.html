@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div class="post-header">
+  <h1 class="post-title-main">{{ page.title }}</h1>
+</div>
+
+<div class="post-content">
+
+{{ page.summary }}
+
+{% if page.pro1 %}
+	<div class="row">
+	<div class="exchange-pros col-md-6">
+	<div class="exchange-pros-title">Pros</div>
+	{% endif %}
+	
+	{% if page.pro1 %}
+	<li class="exchange-pro">{{ page.pro1 }}</li>
+	{% endif %}
+	{% if page.pro2 %}
+	<li class="exchange-pro">{{ page.pro2 }}</li>
+	{% endif %}
+	{% if page.pro3 %}
+	<li class="exchange-pro">{{ page.pro3 }}</li>
+	{% endif %}
+	
+	{% if page.pro1 %}
+	</div>
+	{% endif %}
+	
+	{% if page.con1 %}
+	<div class="exchange-pros col-md-6">
+	<div class="exchange-pros-title">Cons</div>
+	{% endif %}
+	
+	{% if page.con1 %}
+	<li class="exchange-pro">{{ page.con1 }}</li>
+	{% endif %}
+	{% if page.con2 %}
+	<li class="exchange-pro">{{ page.con2 }}</li>
+	{% endif %}
+	{% if page.con3 %}
+	<li class="exchange-pro">{{ page.con3 }}</li>
+	{% endif %}
+	
+	{% if page.con1 %}
+	</div>
+	</div>
+	{% endif %}
+	
+	<a type="button" href="{{ page.buyurl }}" rel="nofollow" target="_blank" class="btn wallet-btn-top btn-primary"><i class="fa fa-bitcoin"></i> Buy {{ page.miner_name }}</a>
+
+		<a class="miner-img-body" href="{{ page.buyurl }}" rel="nofollow" target="_blank">
+	<img src="{{ page.img }}" />
+	</a>
+	
+  {{ content }}
+</div>
