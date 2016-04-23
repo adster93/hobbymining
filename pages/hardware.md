@@ -91,7 +91,7 @@ In addition to a Bitcoin mining ASIC, you'll need some other Bitcoin mining equi
 
 **[Cooling Fans](http://amzn.to/1qHJWEC)** - Bitcoin hardware can easily overheat and stop working. Buy a sufficient amount of [cooling fans](http://amzn.to/1qHJWEC) to keep your hardware working. 
 
-You can find  <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&icep_uq=bitcoin+miner+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Bitcoin mining equipment for sale on eBay</a><img style="text-decoration:none;border:0;padding:0;margin:0;" src="http://rover.ebay.com/roverimp/1/711-53200-19255-0/1?ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&uq=bitcoin+miner+power+supply&mpt=[CACHEBUSTER]">. 
+You can find  <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&icep_uq=bitcoin+miner+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Bitcoin mining equipment for sale on eBay</a>. 
 
 ## Bitcoin Mining Without Hardware? 
 
