@@ -3,8 +3,9 @@ title: "Bitcoin Mining Hardware ASICs and Rigs"
 permalink: "/mining-hardware/"
 seotitle: "5 Best Bitcoin Mining Hardware ASICs 2016 (Comparison)"
 layout: page
+desc: Quickly learn where to buy the best Bitcoin mining hardware ASICs using this comparison chart.
 ---
-Hobby mining can still be fun and even profitable if you have cheap electricity, a good bitcoin mining machine, and find cheap Bitcoin mining hardware. 
+Hobby Bitcoin mining can still be fun and even profitable if you have cheap electricity, an [efficient bitcoin mining machine](/efficient-bitcoin-miners/), and get the best Bitcoin mining hardware. 
 
 ## Bitcoin Mining Hardware Comparison
 

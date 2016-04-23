@@ -12,6 +12,7 @@ pro2: <a href="http://amzn.to/1Slc1IW">Amazon reviews</a> confirm that 4.73 TH/s
 con1: 
 summary: The Bitmain Antminer S7 is Bitmain Tech's latest version of its Antminer series of Bitcoin miners.
 img: /img/miners/s7.jpg
+tags: [efficient, antminer]
 ---
 
 ## Power Supply

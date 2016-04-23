@@ -12,6 +12,7 @@ pro2: <a href="http://amzn.to/1Wf6wQZ">Amazon reviews</a> confirm that 1.16 TH/s
 con1: <a href="http://amzn.to/1T0SfCp">Some reports</a> of overheating and smoke
 summary: The Bitmain Antminer S5 is Bitmain Tech's second newest version of its Antminer series of Bitcoin miners
 img: /img/miners/s5.jpg
+tags: [antminer]
 ---
 
 ## Power Supply

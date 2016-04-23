@@ -9,3 +9,7 @@
   ga('send', 'pageview');
 
 </script>
+
+{% if page.desc %}
+<meta name="description" content="{{ page.desc }}" />
+{% endif %}
