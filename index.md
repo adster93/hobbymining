@@ -15,6 +15,6 @@ Well, we gave you a warning! Still not convinced and want to get into Bitcoin mi
 
 ## Getting Started
 
-First, you'll need to purchase [Bitcoin mining hardware](/mining-hardware/). To even have a chance at any kind of profit, your best bet is to purchase an [Antminer S7](/bitmain-antminer-s7/) or an [SP20 Jackson](/spondoolies-sp20/) since they are the most effecient miners. 
+First, you'll need to purchase [Bitcoin mining hardware](/mining-hardware/). To even have a chance at any kind of profit, your best bet is to purchase an [Antminer S7](/bitmain-antminer-s7/) or an [Avalon6](/avalon6/) since they are the most effecient miners. 
 
 If you just want to play around with mining, [grab a USB miner](/usb-bitcoin-miners/) to learn the basics at a small startup cost. 
