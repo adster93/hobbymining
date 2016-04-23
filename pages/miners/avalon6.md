@@ -8,8 +8,9 @@ miner_name: Avalon6
 hashp: 3.50 TH/s
 price: $874.50
 pro1: The second most efficient Bitcoin miner on the market
-pro2: 
-con1: 
+pro2: <a href="http://amzn.to/1qHJcPE">Reviews claim</a> that the miner is quiet compared to other miners
+con1: Less hash power for the money compared to the <a href="/bitmain-antminer-s7/">Antminer S7</a>
+con2: Less efficiency than the Antminer S7
 summary: 
 img: /img/miners/avalon6.jpg
 tags: [efficient, avalon]
