@@ -58,6 +58,7 @@ body {
 	float: right;
 	max-width: 300px;
 	margin-top: 42px;
+	margin-left: 10px;
 }
 
 @media (max-width: 540px) { 
@@ -67,6 +68,7 @@ body {
     margin-top: 25px !important;
     max-width: none !important;
     width: 100% !important;
+    margin-left: 0 !important;
 }
 }
 

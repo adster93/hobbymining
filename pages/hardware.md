@@ -5,7 +5,7 @@ seotitle: "5 Best Bitcoin Mining Hardware ASICs 2016 (Comparison)"
 layout: page
 desc: Quickly learn where to buy the best Bitcoin mining hardware ASICs using this comparison chart.
 ---
-Hobby Bitcoin mining can still be fun and even profitable if you have cheap electricity, an [efficient bitcoin mining machine](/efficient-bitcoin-miners/), and get the best Bitcoin mining hardware. 
+Hobby Bitcoin mining can still be fun and even profitable if you have cheap electricity, an efficient bitcoin mining machine, and get the best Bitcoin mining hardware. 
 
 ## Bitcoin Mining Hardware Comparison
 
@@ -74,6 +74,35 @@ We recommend purchasing the <a rel="nofollow" target="_self" href="http://rover.
 You can use a bitcoin mining [profitability calculator](http://www.coinwarz.com/calculators/bitcoin-mining-calculator) to determine your estimated cost of return on your mining hardware. 
 
 Be sure to take electricity costs into account. Most mining hardware appears profitable until electricity costs are accounted for. 
+
+## Most Efficient Bitcoin Miners
+
+Good Bitcoin mining hardware needs to have a high hash rate. But, efficiency is just as important. 
+
+An efficient Bitcoin miner means that you pay less in electricity costs per hash. 
+
+The miners in the table below are currently the most efficient Bitcoin miners on the market. 
+
+<table class="m-comparison">
+  <tr>
+  	<th></th>
+    <th>Miner</th>
+    <th>Hash Power<br></th>
+    <th class="miner-price">Price</th>
+    <th class="miner-buy">Buy</th>
+  </tr>
+  {% for miner in site.pages %}
+  {% if miner.tags contains "efficient" %}
+  {% include compare.html %}
+  {% endif %}
+  {% endfor %}
+</table>
+
+The [Avalon6](http://amzn.to/1VsHXkA) gets 0.29 Watts/GH, but costs more than $200 more than the Antminer S7. 
+
+The Antminer S7 is more efficient, with 0.25 Watts/GH. The Antminer S7 also costs much less, and comes with 4.5 TH/s of hash power compared to the Avalon6's 3.50 TH/s.
+
+The [AntMiner S7](http://amzn.to/26frgMW) is clearly the better option between these two miners, which are currently the most efficient miners available for purchase.
 
 ## Bitcoin Mining Hardware Companies
 
