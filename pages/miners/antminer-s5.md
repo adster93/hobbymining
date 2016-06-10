@@ -13,6 +13,7 @@ con1: <a href="http://amzn.to/1T0SfCp">Some reports</a> of overheating and smoke
 summary: The Bitmain Antminer S5 is Bitmain Tech's second newest version of its Antminer series of Bitcoin miners
 img: /img/miners/s5.jpg
 tags: [antminer]
+desc: The most in depth review of the Bitmain Antminer S5. Learn about its pros, cons, profitability, and more! 
 ---
 
 ## Power Supply

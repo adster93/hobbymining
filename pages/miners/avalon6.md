@@ -14,6 +14,7 @@ con2: Less efficiency than the Antminer S7
 summary: 
 img: /img/miners/avalon6.jpg
 tags: [efficient, avalon]
+desc: The most in depth review of the Avalon6. Learn about its pros, cons, profitability, and more! 
 ---
 
 ## Power Supply

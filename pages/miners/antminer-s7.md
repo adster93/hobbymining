@@ -13,6 +13,7 @@ con1:
 summary: The Bitmain Antminer S7 is Bitmain Tech's latest version of its Antminer series of Bitcoin miners.
 img: /img/miners/s7.jpg
 tags: [efficient, antminer]
+desc: The most in depth review of the Bitmain Antminer S7. Learn about its pros, cons, profitability, and more! 
 ---
 
 ## Power Supply

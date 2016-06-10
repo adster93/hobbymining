@@ -14,6 +14,7 @@ con2: Power supply sold separately (adding another $170 - $200)
 summary: 
 img: /img/miners/s9.jpg
 tags: [efficient, antminer]
+desc: The most in depth review of the Bitmain Antminer S9. Learn about its pros, cons, profitability, and more! 
 ---
 ## AntMiner S9: Game Changer for Hobbyist Miners?
 
