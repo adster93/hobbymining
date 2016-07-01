@@ -3,7 +3,7 @@ title: "Bitmain Antminer S9 Review"
 permalink: "/bitmain-antminer-s9/"
 seotitle: "Bitmain Antminer S9 Review: Is it Profitable?"
 layout: miner
-buyurl: http://amzn.to/1U3YuvJ
+buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337910375&customid=&icep_uq=antminer+s9&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
 miner_name: Antminer S9
 hashp: 14.0 TH/s
 price: $2,000
@@ -40,7 +40,7 @@ The good news is that existing power supplies, at least those of sufficient watt
 
 Recommended for use with the S9 are:
 
-1. The [AntMiner APW-12 1600 Watt Bitcoin Miner PSU](http://amzn.to/28o7j7W), which retails for just under $200 on Amazon, and
+1. The [AntMiner APW-12 1600 Watt Bitcoin Miner PSU](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337910375&customid=&icep_uq=AntMiner+APW-12+1600&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg), which retails for just under $200 on Amazon, and
 
 2. The [EVGA SuperNOVA 1300 Watt GPU PSU](http://www.amazon.com/EVGA-SuperNOVA-Crossfire-Warranty-120-G2-1300-XR/dp/B00COIZTZM/ref=sr_1_1?ie=UTF8&qid=1465032034&sr=8-1&keywords=EVGA+SuperNOVA+1300+G2) , which sells for about $170 on Amazon. Note that the 1600 Watt EVGA PSU is significantly more expensive, by about $115, than Ant Miner’s equivalently-powered offering.
 
@@ -62,7 +62,7 @@ The cutting-edge manufacturing process is what makes the S9 the most electricall
 
 ## Price
 
-The first batch of S9s will be available for order directly from [Bitmain](https://enshop.bitmain.com/product.htm) from the 12<sup>th</sup> of June. At [$2100 on Amazon](http://amzn.to/1U3YuvJ), the S9 is far from cheap. However, the lower your electricity costs, the better your odds of the miner paying for itself within a reasonable timeframe. Naturally, much depends on the Difficulty and Bitcoin price.
+The first batch of S9s will be available for order directly from [Bitmain](https://enshop.bitmain.com/product.htm) from the 12<sup>th</sup> of June. At [$2100 on Amazon](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337910375&customid=&icep_uq=antminer+s9&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg), the S9 is far from cheap. However, the lower your electricity costs, the better your odds of the miner paying for itself within a reasonable timeframe. Naturally, much depends on the Difficulty and Bitcoin price.
 
 As smaller manufacturing processes become standard across the industry and as other manufacturers release competing hardware, the S9’s price can be expected to fall appreciably over the coming months. [Bi Wang is launching its 14nm chips](https://bitcoinmagazine.com/articles/bw-to-launch-nm-chip-and-miner-for-general-population-1445278227) sometime in winter 2016 and [BitFury’s own 16nm architecture hardware](https://btcmanager.com/news/business/bitfury-announces-16nm-chip-now-in-production/), promising fantastic power efficiency at 0.06 J/GH, is also reported to be coming soon.
 

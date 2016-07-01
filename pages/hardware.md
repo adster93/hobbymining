@@ -98,11 +98,11 @@ The miners in the table below are currently the most efficient Bitcoin miners on
   {% endfor %}
 </table>
 
-The [Avalon6](http://amzn.to/1VsHXkA) gets 0.29 Watts/GH, but costs more than $200 more than the Antminer S7. 
+The [Avalon6](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337910379&customid=&icep_uq=avalon6&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) gets 0.29 Watts/GH, but costs more than $200 more than the Antminer S7. 
 
 The Antminer S7 is more efficient, with 0.25 Watts/GH. The Antminer S7 also costs much less, and comes with 4.5 TH/s of hash power compared to the Avalon6's 3.50 TH/s.
 
-The [AntMiner S7](http://amzn.to/26frgMW) is clearly the better option between these two miners, which are currently the most efficient miners available for purchase.
+The [AntMiner S7](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804714&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is clearly the better option between these two miners, which are currently the most efficient miners available for purchase.
 
 ## Bitcoin Mining Hardware Companies
 
@@ -118,7 +118,7 @@ In addition to a Bitcoin mining ASIC, you'll need some other Bitcoin mining equi
 
 **Power Supply** - Bitcoin rigs need special power supplies to funnel and use electricity efficiently. 
 
-**[Cooling Fans](http://amzn.to/1qHJWEC)** - Bitcoin hardware can easily overheat and stop working. Buy a sufficient amount of [cooling fans](http://amzn.to/1qHJWEC) to keep your hardware working. 
+**[Cooling Fans](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&icep_uq=cooling+fan&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)** - Bitcoin hardware can easily overheat and stop working. Buy a sufficient amount of cooling fans to keep your hardware working. 
 
 You can find  <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&icep_uq=bitcoin+miner+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Bitcoin mining equipment for sale on eBay</a>. 
 
@@ -128,4 +128,4 @@ It's still technically possible to mine bitcoins without dedicated mining hardwa
 
 ## USB Bitcoin Miners
 
-Using a [Bitcoin USB miner](/usb-bitcoin-miners/) with your computer was once a profitable way to mine bitcoins. Today, however, USB miners don't generate enough hashing power to mine profitably. If you just want to get a Bitcoin miner USB to learn, a USB [block erupter from Amazon](http://amzn.to/1QaHMr0){:rel="nofollow"} or <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=bitcoin+usb+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">eBay</a> is a good cheap Bitcoin miner. 
+Using a [Bitcoin USB miner](/usb-bitcoin-miners/) with your computer was once a profitable way to mine bitcoins. Today, however, USB miners don't generate enough hashing power to mine profitably. If you just want to get a Bitcoin miner USB to learn, a USB <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=bitcoin+usb+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">eBay</a> is a good cheap Bitcoin miner. 
