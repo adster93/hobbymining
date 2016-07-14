@@ -124,7 +124,7 @@ You can find  <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover
 
 ## Bitcoin Mining Without Hardware? 
 
-It's still technically possible to mine bitcoins without dedicated mining hardware. However, you'll earn less than one penny per month. Mining bitcoins on your computer will do more damage to your computer and won't earn a profit. So, it's not worth it unless you're just interested to see how the mining process works. 
+It's still technically possible to mine bitcoins without dedicated mining hardware. However, you'll earn less than one penny per month. Mining bitcoins on your computer will do more damage to your computer and won't earn a profit. So, it's not worth it unless you're just interested to see how the mining process works. You're best bet is to buy dedicated hardware like the Antminer S7 or [Antminer S9](https://milli.io/antminer-s9-review/). 
 
 ## USB Bitcoin Miners
 
