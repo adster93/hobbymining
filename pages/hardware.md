@@ -129,3 +129,7 @@ It's still technically possible to mine bitcoins without dedicated mining hardwa
 ## USB Bitcoin Miners
 
 Using a [Bitcoin USB miner](/usb-bitcoin-miners/) with your computer was once a profitable way to mine bitcoins. Today, however, USB miners don't generate enough hashing power to mine profitably. If you just want to get a Bitcoin miner USB to learn, a USB <a rel="nofollow" target="_self" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=bitcoin+usb+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">eBay</a> is a good cheap Bitcoin miner. 
+
+## Buying Bitcoins
+
+In general, it's important to remember that Bitcoin mining is competitive and today is not a good idea for the average person. If you just want bitcoins then you are better of [buying bitcoins](https://www.buybitcoinworldwide.com/) and you can [get all of your questions answered here](http://ask.buybitcoinworldwide.com/)! 
