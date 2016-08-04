@@ -6,7 +6,7 @@ layout: miner
 buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804714&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
 miner_name: Antminer S7
 hashp: 4.73 TH/s
-price: $647.99
+price: $489.99
 pro1: High 4.73 TH/s hashrate, and efficient at 0.25 Joule per GH/s
 pro2: Reasonably priced at $440 new (plus shipping)
 pro3: Popular miner with plentiful guides and parts available 

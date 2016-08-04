@@ -6,7 +6,7 @@ layout: miner
 buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337910377&customid=&icep_uq=antminer+s5&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
 miner_name: Antminer S5
 hashp: 1.16 TH/s
-price: $199.00
+price: $139.99
 pro1: Low cost miner, with second-hand units available for under $200
 pro2: Relatively low power demand of 590 Watts
 pro3: Good for learning and experimentation
