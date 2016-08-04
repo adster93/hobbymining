@@ -7,16 +7,18 @@ buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973
 miner_name: Antminer S5
 hashp: 1.16 TH/s
 price: $199.00
-pro1: Claimed 1.16 TH/s hash rate is third most available on market
-pro2: Amazon reviews confirm that 1.16 TH/s rate is accurate
-con1: Some reports of overheating and smoke
+pro1: Low cost miner, with second-hand units available for under $200
+pro2: Relatively low power demand of 590 Watts
+pro3: Good for learning and experimentation
+con1: Noisy (~75dB) single fan design, although mods can quieten it
+con2: Spec hashrate of around 1155 GH/s is low by today’s standards
 summary: The Bitmain Antminer S5 is Bitmain Tech's second newest version of its Antminer series of Bitcoin miners
 img: /img/miners/s5.jpg
 tags: [antminer]
 desc: The most in depth review of the Bitmain Antminer S5. Learn about its pros, cons, profitability, and more! 
 ---
 
-## The AntMiner S5: Still Relevant to Modern Mining?**
+## The AntMiner S5: Still Relevant to Modern Mining?
 
 Bitmain released their AntMiner S5 Bitcoin miner in late 2014\. At that time, it was one of the fastest and most efficient ASIC miners available, rivalled by the [Spondoolies-Tech SP20](https://www.amazon.com/Spondoolies-Tech-Jackson-1-3-1-7TH-Bitcoin-Miner/dp/B00RC288E4). However, the S5 has long since been surpassed by newer models.
 
