@@ -7,6 +7,8 @@ title: "Biggest & Best Bitcoin Mining Pools and Companies"
 desc: F2Pool, AntPool, and Bitfury currently lead the highly competitive Bitcoin mining industry. 
 summary: F2Pool, AntPool, and Bitfury currently lead the highly competitive Bitcoin mining industry. 
 ---
+Now that you have your [Bitcoin mining hardware](/mining-hardware/), your next step is to join the best Bitcoin mining pool. 
+
 Bitcoin miners are crucial to Bitcoin and its security. Without miners, Bitcoin would be vulnerable and easy to attack. Most Bitcoin users don't mine. However, miners are responsible for the creation of all new bitcoins and a fascinating part of the Bitcoin ecosystem. 
 
 Mining, once done on the average home computer, is now mostly done in large, specialized warehouses. These warehouses usually direct their hashing power towards mining pools. What is a mining pool? Here's the definition from Buy Bitcoin Worldwide: 

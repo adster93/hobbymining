@@ -18,7 +18,7 @@ desc: The most in depth review of the Bitmain Antminer S9. Learn about its pros,
 ---
 ## AntMiner S9: Game Changer for Hobbyist Miners?
 
-Bitcoin’s Difficulty has recorded several strong and often consecutive monthly increases since its creation, and especially from late November 2015. Difficulty has nearly tripled since then, climbing from **520,569,941GH/s** to the current record high of **1,426,731,353 GH/s.** This peak was reached on May 24<sup>th</sup> 2016\. Such tremendous growth has been spurred by major investment into [Bitcoin mining technology](/mining-hardware/) and operations.
+[Bitcoin’s Difficulty has recorded several strong and often consecutive monthly increases](/mining-profitability/) since its creation, and especially from late November 2015. Difficulty has nearly tripled since then, climbing from **520,569,941GH/s** to the current record high of **1,426,731,353 GH/s.** This peak was reached on May 24<sup>th</sup> 2016\. Such tremendous growth has been spurred by major investment into [Bitcoin mining technology](/mining-hardware/) and operations.
 
 While such growth is impressive, making Bitcoin the world’s most powerful computing network by far, one unintended consequence of such rapid growth has been increased centralisation. Profits have accumulated where mining is most profitable (China), with the result that several competing operations (eg. [KNC](http://swedishstartupspace.com/2016/05/27/knc-miner-declares-bankruptcy-chinese-competition-too-tough/)) have been forced out the industry.
 
