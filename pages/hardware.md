@@ -132,4 +132,4 @@ Using a [Bitcoin USB miner](/usb-bitcoin-miners/) with your computer was once a 
 
 ## Buying Bitcoins
 
-In general, it's important to remember that Bitcoin mining is competitive and today is not a good idea for the average person. If you just want bitcoins then you are better of [buying bitcoins](https://www.buybitcoinworldwide.com/) and you can [get all of your questions answered here](http://ask.buybitcoinworldwide.com/)! 
+In general, it's important to remember that Bitcoin mining is competitive and today is not a good idea for the average person. If you just want bitcoins then you are better of [buying bitcoins](https://www.buybitcoinworldwide.com/).
