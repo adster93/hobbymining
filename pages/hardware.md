@@ -24,6 +24,8 @@ Hobby Bitcoin mining can still be fun and even profitable if you have cheap elec
   {% endfor %}
 </table>
 
+Not included in the table is [Bitmain's Antminer R4](/bitmain-antminer-r4/), which is targeted at users who mine bitcoins at home. 
+
 ## What is an ASIC Bitcoin Miner?
 
 Since it's now impossible to profitably mine Bitcoin with your computer, you'll need specialized hardware called ASICs. 

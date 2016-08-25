@@ -10,7 +10,7 @@ layout: default
 
 {{ page.summary }}
 
-{% if page.pro1 %}
+{% if page.pro1 or page.pro2 %}
 	<div class="row">
 	<div class="exchange-pros col-md-6">
 	<div class="exchange-pros-title">Pros</div>
@@ -26,7 +26,7 @@ layout: default
 	<li class="exchange-pro">{{ page.pro3 }}</li>
 	{% endif %}
 	
-	{% if page.pro1 %}
+	{% if page.pro1 or page.pro2 %}
 	</div>
 	{% endif %}
 	
