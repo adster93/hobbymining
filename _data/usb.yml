@@ -1,0 +1,39 @@
+ - name: ASICMiner Block Erupter USB 330MH/s Sapphire Miner
+   miner_name: Sappire Miner
+   desc: "The Sapphire Block Erupters were the first Bitcoin USB miners. They have 330 MH/s of hash power which would net you less than $0.01 per month. It may be a good choice just to see how mining works, but like with most USB miners: do not expect to turn a profit."
+   hashp: 330 MH/s 
+   price: $29.99
+   buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=Sappire+Miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg   
+   img: /img/miners/sapphire.jpg   
+   
+ - name: GekkoScience Compac USB Stick Bitcoin Miner 
+   miner_name: GekkoScience
+   desc: The GekkoScience miners is just slightly better than the original block erupters. It will net you about $0.15 per month, which is more than a dollar per year! The company claims that the device runs completely silent. It works with just one USB port. 
+   hashp: 8 GH/s 
+   price: $49.99
+   buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=GekkoScience&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
+   img: /img/miners/gekko.jpg   
+     
+ - name: Avalon Nano 3
+   miner_name: Avalon Nano 3
+   desc: The Avalon Nano 3 is a 3.6 GH/s miner, which will earn you about $1 per year. No fan is required and it just plugs into your USB port on any computer. 
+   hashp: 3.6 GH/s
+   price: $20
+   buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=Avalon+Nano+3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
+   img: /img/miners/nano.jpg   
+   
+ - name: Bitmain Antrouter R1 Wifi Solo Bitcoin Miner
+   miner_name: Bitmain Antrouter
+   desc: The Bitmain AntRouter isn't exactly a USB miner, but it is similar. It's low cost, but with that you get a low GH/s at just 5.5 GH/s which is a little over $1 per year. The plus side is it works as a wireless router, so you can do some mining while providing internet for all your devices. 
+   hashp: 5.5 GH/s
+   price: $59.99
+   buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=Antrouter&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
+   img: /img/miners/antrouter.png     
+   
+ - name: 21 Bitcoin Computer
+   miner_name: 21 Computer
+   desc: The 21 Bitcoin Computer isn't the typical USB Bitcoin miner. It does, however, plugin to your computer via USB. In terms of $ / hash rate, it's not a very good choice. But since it's still technically a USB miner we have included it in this list. 
+   hashp: 50-120 GH/s
+   price: $399
+   buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=21+computer+bitcoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
+   img: /img/miners/21.jpg           

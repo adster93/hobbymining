@@ -101,6 +101,13 @@ body {
 	vertical-align: middle !important;
 }
 
+.usb-image {
+	float: right;
+	height: 80px !important;
+	width: auto !important;
+	margin-left: 15px;
+}
+
 @media (max-width: 500px) { 
 .m-comparison .miner-buy, .m-comparison .miner-price {
 		display: none !important;
