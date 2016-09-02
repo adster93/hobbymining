@@ -1,7 +1,15 @@
 <tr>
   	<td><a target="_blank" rel="nofollow" href="{{ miner.buyurl }}"><img src="{{ miner.img }}" alt="{{ miner.name }}"></a></td>
    
-    <td><a href="{{ miner.permalink }}">{{ miner.miner_name }}</a></td>
+    <td>
+    {% if miner.pro1 %}
+    	<a href="{{ miner.permalink }}">
+    {% else %}
+    	<a target="_blank" rel="nofollow" href="{{ miner.buyurl }}">
+    {% endif %}
+    {{ miner.miner_name }}
+    </a>
+    </td>
     
     <td>{{ miner.hashp }}</td>
        
