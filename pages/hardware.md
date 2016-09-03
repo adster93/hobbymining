@@ -44,7 +44,7 @@ There are some important factors to look at when determining which Bitcoin minin
 
 **Price** - How much does the bitcoin miner cost? Cheap mining hardware will mine less bitcoins, which is why efficiency and electricity usage are important. The fastest and more effecient mining hardware is going to cost more.
 
-Don't try to buy a miner based on only price or only hash rate. The best ASIC miner is the [most effecient bitcoin miner](/efficient-bitcoin-miners/). Aim for value.
+Don't try to buy a miner based on only price or only hash rate. The best ASIC miner is the most effecient bitcoin miner. Aim for value.
 
 ## Bitcoin Miners for Sale on Amazon
 

@@ -26,3 +26,13 @@ USB Bitcoin miners are available to buy, but they don't really generate any sign
 {% endfor %}
 
 If you're not impressed, we don't blame you! USB Bitcoin mining was only profitable when Bitcoin was in its early years. If you just want bitcoins then invest in [serious mining hardware](/mining-hardware/) or just [buy bitcoins](https://www.buybitcoinworldwide.com/). 
+
+<h2>More Mining Hardware</h2>
+
+<div class="more-miner-wrap">
+{% for miner in site.pages %}
+{% if miner.pro1 and miner.permalink != page.permalink %}
+{% include more-miners.html %}
+{% endif %}
+{% endfor %}
+</div>
