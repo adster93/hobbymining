@@ -1,5 +1,5 @@
  - name: ASICMiner Block Erupter USB 330MH/s Sapphire Miner
-   miner_name: Sappire Miner
+   miner_name: Sapphire Miner
    desc: "The Sapphire Block Erupters were the first Bitcoin USB miners. They have 330 MH/s of hash power which would net you less than $0.01 per month. It may be a good choice just to see how mining works, but like with most USB miners: do not expect to turn a profit."
    hashp: 330 MH/s 
    price: $29.99
