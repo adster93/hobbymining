@@ -61,6 +61,12 @@ body {
 	margin-left: 10px;
 }
 
+.miner-calc {
+	margin: 0 auto;
+	max-width: 300px !important;
+	height: auto !important;
+}
+
 @media (max-width: 540px) { 
 	.miner-img-body {
     display: block !important;
@@ -106,6 +112,21 @@ body {
 	height: 80px !important;
 	width: auto !important;
 	margin-left: 15px;
+}
+
+.more-miner-wrap {
+	text-align: center;
+}
+
+.more-miners {
+	display: inline-block;
+	text-align: center;
+	margin: 20px 35px;
+	
+	img {
+		width: 160px;
+		height: auto;
+	}
 }
 
 @media (max-width: 500px) { 

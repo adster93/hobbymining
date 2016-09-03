@@ -60,5 +60,14 @@ layout: default
   
   	<a type="button" href="{{ page.buyurl }}" rel="nofollow" target="_blank" class="btn wallet-btn-top btn-primary"><i class="fa fa-bitcoin"></i> Buy {{ page.miner_name }}</a>
 
+<h2>More Mining Hardware</h2>
+
+<div class="more-miner-wrap">
+{% for miner in site.pages %}
+{% if miner.pro1 and miner.permalink != page.permalink %}
+{% include more-miners.html %}
+{% endif %}
+{% endfor %}
+</div>
   
 </div>

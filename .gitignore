@@ -1,2 +1,7 @@
 _site
 .sass-cache
+pages/redirects/.DS_Store
+
+pages/.DS_Store
+
+img/miners/.DS_Store
