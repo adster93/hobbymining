@@ -16,7 +16,7 @@
      
  - name: Avalon Nano 3
    miner_name: Avalon Nano 3
-   desc: The Avalon Nano 3 is a 3.6 GH/s miner, which will earn you about $1 per year. No fan is required and it just plugs into your USB port on any computer. 
+   desc: The <a href="/avalon-nano-3/">Avalon Nano 3</a> is a 3.6 GH/s miner, which will earn you about $1 per year. No fan is required and it just plugs into your USB port on any computer. 
    hashp: 3.6 GH/s
    price: $20
    buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=Avalon+Nano+3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
