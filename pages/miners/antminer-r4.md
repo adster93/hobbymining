@@ -14,7 +14,7 @@ con2:
 summary: 
 img: /img/miners/antminer-r4.png
 tags: [efficient, antminer]
-desc: The most in depth review of the Bitmain Antminer S9. Learn about its pros, cons, profitability, and more! 
+desc: The most in depth review of the Bitmain Antminer R4 home miner. Learn about its pros, cons, profitability, and more! 
 ---
 
 ## Antminer R4: The Perfect Home Bitcoin Miner
