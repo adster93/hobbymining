@@ -1,5 +1,5 @@
 ---
-title: "Avalon6 Bitcoin Miner Review and Setup"
+title: "Avalon6 Bitcoin Miner Review"
 permalink: "/avalon6/"
 seotitle: "Avalon6 Review and Setup: Is it Profitable?"
 layout: miner

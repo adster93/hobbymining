@@ -1,5 +1,5 @@
 ---
-title: "Bitmain Antminer S5 Review and Setup"
+title: "Bitmain Antminer S5 Review"
 permalink: "/bitmain-antminer-s5/"
 seotitle: "Bitmain Antminer S5 Review and Setup: Is it Profitable?"
 layout: miner
