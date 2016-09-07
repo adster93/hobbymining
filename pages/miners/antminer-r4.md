@@ -3,7 +3,7 @@ title: "Bitmain Antminer R4 Review"
 permalink: "/bitmain-antminer-r4/"
 seotitle: "Bitmain Antminer R4 Review: Buy this Home Bitcoin Miner?"
 layout: miner
-buyurl: https://enshop.bitmain.com/adv/antminer-r4-silent-bitcoin-miner.html
+buyurl: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337953275&customid=&icep_uq=antminer+r4&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
 miner_name: Antminer R4
 hashp: 8.6 TH/s
 price: $1,000
