@@ -13,7 +13,7 @@ Like the heading says, most cloud mining contracts are scams. Why? Because it's 
 
 ## Which Companies Are Not Scams? 
 
-There is only one cloud mining company we are willing to recommend on this site: [Genesis Mining](https://www.genesis-mining.com/). 
+There is only one cloud mining company we are willing to recommend on this site: [Genesis Mining](https://www.genesis-mining.com/a/453605). 
 
 ## Genesis Mining
 
