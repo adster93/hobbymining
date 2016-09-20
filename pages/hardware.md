@@ -106,6 +106,8 @@ The Antminer S7 is more efficient, with 0.25 Watts/GH. The Antminer S7 also cost
 
 The [AntMiner S7](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804714&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is clearly the better option between these two miners, which are currently the most efficient miners available for purchase.
 
+There are also companies that will let you order hardware to their warehouse and run the miners for you. You could also [cloud mine bitcoins](/bitcoin-cloud-mining/), but it's a lot less fun than running your hardware! 
+
 ## Bitcoin Mining Hardware Companies
 
 **[Bitmain](https://www.bitmaintech.com/product.htm)** - Bitmain makes the Antminer line of Bitcoin miners. Bitmain is based in China and also operates a mining pool. 

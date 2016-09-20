@@ -17,7 +17,7 @@ Mining pools are groups of cooperating miners who agree to share block rewards i
 
 While we can see which mining pools are the largest, it’s important to understand that the hash power pointed towards a mining pool isn’t necessarily owned by the mining pool itself. There are a few cases, like with BitFury and KnCMiner, where the company itself runs the mining operation but doesn’t run a mining pool. 
 
-Bitcoin miners can switch mining pools easily by routing their hash power to a different pool. The market share of pools is constantly changing. To make the list of top 10 miners, we looked at blocks found over the past 6 months using data from [BlockTrail](https://www.blocktrail.com/BTC/pools). The size of mining pools is constantly changing. We will do our best to keep this posted up-to-date. 
+Bitcoin miners can switch mining pools easily by routing their hash power to a different pool. The market share of pools is constantly changing. To make the list of top 10 miners, we looked at blocks found over the past 6 months using data from [BlockTrail](https://www.blocktrail.com/BTC/pools). The size of mining pools is constantly changing. We will do our best to keep this posted up-to-date. Note that if you cloud mine then you don't need to select a pool; the [cloud mining](/bitcoin-cloud-mining/) company does this automatically. 
 
 ## 1. [DiscusFish/F2Pool](https://www.f2pool.com/)
 DiscusFish, also known as F2Pool, is based in China. DiscusFish has mined about 19.5% of all blocks over the past six months. 
