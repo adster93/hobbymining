@@ -35,4 +35,4 @@ If you think mining is cool and want to try, then cloud mining still is not a go
 
 ## Bitcoin Cloud Mining Comparison
 
-Well, this is just a joke! Since we only recommend one company here there is no need for comparison. But check back in incase we find any new, legit cloud mining companies. 
+Well, this is just a joke! Since we only recommend one company ([Genesis Mining](/genesis-mining-review/)) here there is no need for comparison. But check back in incase we find any new, legit cloud mining companies. 
