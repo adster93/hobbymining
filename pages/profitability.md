@@ -10,7 +10,7 @@ _But is there still gold in them thar hills?_
 
 The fact is that Bitcoin mining has grown from a handful of early enthusiasts to a cottage industry to a specialised industrial-level venture. The easy money was scooped out long ago and what remains is buried under the cryptographic equivalent of miles of hard rock.
 
-Today, only those with specialised, high-powered machinery are able to profitably extract bitcoins. While mining is still technically possible for anyone, those with underpowered setups will find more money is spent on electricity than is generated through mining.
+Today, only those with [specialised, high-powered machinery](/mining-hardware/) are able to profitably extract bitcoins. While mining is still technically possible for anyone, those with underpowered setups will find more money is spent on electricity than is generated through mining.
 
 ![](file://localhost/Users/Jordan/Library/Caches/TemporaryItems/msoclip/0/clip_image002.png)
 
