@@ -146,11 +146,11 @@ body {
     width: 96%;
 }
 
-.nav > li > a {
+.nav > li > a, .navbar-nav > li > a {
     padding: 16px 12px !important;
 }
 
-.nav > li > a:hover {
+.nav > li > a:hover, .navbar-nav > li > a {
     text-decoration: underline;
 }
 
