@@ -39,7 +39,7 @@ You can use [Bitcoin Miner](https://www.microsoft.com/en-us/store/p/bitcoin-mine
 
 ### BTCMiner
 
-[BTCMiner](https://en.bitcoin.it/wiki/BTCMiner) is an Open Source Bitcoin Miner for ZTEX USB-FPGA modules 1.5. BTCMiner comes with the following features: dynamic frequency scaling in that BTCMiner automatically chooses the frequency with the highest rate of valid hashes, ready-to-use Bitstream i.e. no Xilinx software or license required. It also comes with supported FPGA boards which contain a USB interface used for communication and programming.
+[BTCMiner](https://en.bitcoin.it/wiki/BTCMiner) is an Open Source Bitcoin Miner for ZTEX USB-FPGA modules 1.5. BTCMiner comes with the following features: dynamic frequency scaling in that BTCMiner automatically chooses the frequency with the highest rate of valid hashes, ready-to-use Bitstream i.e. no Xilinx software or license required. It also comes with supported FPGA boards which contain a [USB](/usb-bitcoin-miners/) interface used for communication and programming.
 
 ### CGMiner
 
