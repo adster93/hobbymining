@@ -154,6 +154,49 @@ body {
     text-decoration: underline;
 }
 
+#markdown-toc::before {
+    background: #666 none repeat scroll 0 0;
+    color: white;
+    content: "Table of Contents";
+    display: block;
+    font-weight: bold;
+    padding: 1px 6px;
+    text-align: center;
+}
+#markdown-toc {
+    float: right;
+    margin: 0 0 5px 10px;
+    padding: 10px 15px;
+    width: 230px;
+}
+#markdown-toc li {
+    background: #efefef none repeat scroll 0 0;
+    border-bottom: 1px solid #fff;
+    font-size: 15px;
+    font-weight: 400;
+    list-style-type: none;
+    padding: 3px 6px;
+    transition: background-color 0.5s ease 0s;
+}
+#markdown-toc li a {
+    color: #555;
+    display: block;
+}
+#markdown-toc li li, #markdown-toc li ul {
+    border: 0 none;
+    padding-left: 7px;
+}
+
+@media (max-width: 540px) {
+#markdown-toc {
+    float: left !important;
+    margin: 10px 0 25px !important;
+    padding: 0 !important;
+    width: 100% !important;
+}
+}
+
+
 @media (max-width: 500px) { 
 .m-comparison .miner-buy, .m-comparison .miner-price {
 		display: none !important;
