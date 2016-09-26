@@ -20,6 +20,9 @@ desc: The most in depth review of the Bitmain Antminer S9. Learn about its pros,
 
 [Bitcoin’s Difficulty has recorded several strong and often consecutive monthly increases](/mining-profitability/) since its creation, and especially from late November 2015. Difficulty has nearly tripled since then, climbing from **520,569,941GH/s** to the current record high of **1,426,731,353 GH/s.** This peak was reached on May 24<sup>th</sup> 2016\. Such tremendous growth has been spurred by major investment into [Bitcoin mining technology](/mining-hardware/) and operations.
 
+* Table of Contents
+{:toc}
+
 While such growth is impressive, making Bitcoin the world’s most powerful computing network by far, one unintended consequence of such rapid growth has been increased centralisation. Profits have accumulated where mining is most profitable (China), with the result that several competing operations (eg. [KNC](http://swedishstartupspace.com/2016/05/27/knc-miner-declares-bankruptcy-chinese-competition-too-tough/)) have been forced out the industry.
 
 > We have tried to calculate the amount of money that the Chinese have invested in mining, we estimate it to be in the hundreds of millions of dollars. Even with free electricity we cannot see how they will ever get this money back. Either they don't know what they are doing, but that is not very likely at this scale or they have some secret advantage that we don't know about. - **Sam Cole, KNC CEO**

@@ -23,6 +23,9 @@ desc: The most in depth review of the Bitmain Antminer S7. Learn about its pros,
 
 [Bitmain’s AntMiner S7](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804714&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has proven so popular since its release in mid-2015 that it’s now reached its 19<sup>th</sup> batch of production. The S7 assumed market dominance for good reason; it offers a high hashrate for the amount of power it consumes. If you view any modern industrial mining operation, chances are you’ll see racks of AntMiner S7s hashing away. The S7 is also a popular choice among hobbyist miners for its reasonable price and strong performance.
 
+* Table of Contents
+{:toc}
+
 The S7 is powered by a 28nm BM1385 ASIC chip. 135 of these chips are spread across 3 boards and kept cool by dual fans (or a single fan in the case of a particular batch). The strong metal casing features a tongue and groove system which allows for the neat arrangement of multiple miners.
 
 ## Power Supply
