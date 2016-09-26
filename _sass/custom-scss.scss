@@ -146,6 +146,14 @@ body {
     width: 96%;
 }
 
+.nav > li > a {
+    padding: 16px 12px !important;
+}
+
+.nav > li > a:hover {
+    text-decoration: underline;
+}
+
 @media (max-width: 500px) { 
 .m-comparison .miner-buy, .m-comparison .miner-price {
 		display: none !important;
