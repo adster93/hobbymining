@@ -9,6 +9,9 @@ summary: F2Pool, AntPool, and Bitfury currently lead the highly competitive Bitc
 ---
 Now that you have your [Bitcoin mining hardware](/mining-hardware/), your next step is to join the best Bitcoin mining pool. 
 
+* Table of Contents
+{:toc}
+
 Bitcoin miners are crucial to Bitcoin and its security. Without miners, Bitcoin would be vulnerable and easy to attack. Most Bitcoin users don't mine. However, miners are responsible for the creation of all new bitcoins and a fascinating part of the Bitcoin ecosystem. 
 
 Mining, once done on the average home computer, is now mostly done in large, specialized warehouses. These warehouses usually direct their hashing power towards mining pools. What is a mining pool? Here's the definition from Buy Bitcoin Worldwide: 
