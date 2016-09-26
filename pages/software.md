@@ -73,7 +73,7 @@ You can use [Bitcoin Miner](https://www.microsoft.com/en-us/store/p/bitcoin-mine
 
 ### More Software
 
-All of the mining software above listed for Linux and Windows also works for Mac OS X. Scroll up yo learn more!  
+All of the mining software above listed for Linux and Windows also works for Mac OS X. Scroll up to learn more!  
 
 ## Cash Out your Coins
 
