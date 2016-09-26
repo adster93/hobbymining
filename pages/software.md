@@ -9,6 +9,8 @@ layout: page
 
 Now that you already know about the [best Bitcoin mining hardware](/mining-hardware/), we're going to talk about Bitcoin mining software. Bitcoin mining hardware handles the actual Bitcoin mining process, but Bitcoin mining software is equally as important. If you are a solo miner then mining software connects your Bitcoin miner to the blockchain. If you mine with a pool then the software will connect you to your [mining pool](/bitcoin-mining-pools/).
 
+If you are [cloud mining](/bitcoin-cloud-mining/) you do not need mining software. 
+
 ## Importance of Bitcoin Mining Software
 
 The main job of the software is to deliver the mining hardware's work to the rest of the Bitcoin network and to receive the completed work from other miners on the network.
