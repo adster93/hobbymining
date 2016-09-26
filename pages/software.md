@@ -53,41 +53,27 @@ You can use [Bitcoin Miner](https://www.microsoft.com/en-us/store/p/bitcoin-mine
 
 ## Bitcoin Mining Software for Linux
 
-### BitMinter
-
-BitMinter was designed for pool mining, having not mentioned any software that can be used by pool miners I think it’s only fair that at least I mention one of those. This software is one of the best, if not the best, when it comes to connecting users with potential clients. Since BitMinter was developed in 2011 over 375,000 people have registered their accounts with them. This software has straight forward functionalities and user-friendly interface.
-
 ### CGMiner
 
-This software is arguably the most famous and the most common software among Bitcoin’s miners at the moment. CGMiner is based on the original code of CPU Miner which in my opinion makes it more popular mostly on the conservatives. This software has many features but I only will mention the main ones which include: fans speed control, remote interface capabilities, self-detection of new blocks with a mini database and multi GPU support and CPU mining support.
+[CGMiner](https://en.bitcoin.it/wiki/CGMiner) is arguably the most famous and the most common software among Bitcoin miners at the moment. CGMiner is based on the original code of CPU Miner. This software has many features but the main ones include: fan speed control, remote interface capabilities, self-detection of new blocks with a mini database, multi GPU support and CPU mining support.
 
 ### BFGMiner
 
-BFGMiner is more or less the same as CGMiner with the only major difference being it doesn’t focus on GPUs like CGMiner but instead it is designed specifically for FPGA and AISCs. This software has some very interesting features that are worth looking at. These features include: supports mining with free mesa/LLVM OpenCL, ADL device reordering by PCI bus ID, integrated overclocking and fan control.
+[BFGMiner](http://bfgminer.org/) is more or less the same as CGMiner. The only major difference is that it doesn’t focus on GPUs like CGMiner but instead it is designed specifically for ASICs. Some unique features of BFGMiner include: mining with free mesa/LLVM OpenCL, ADL device reordering by PCI bus ID, integrated overclocking and fan control.
 
 ### EasyMiner
 
-EasyMiner is a GUI based software and it acts as a convenient wrapper for CGMiner and BFGMiner software. This software supports the getwork mining protocol as well as stratum mining protocol. It can also be used for both solo and pooled mining therefore making it very convenient. Among its main features is that it configures your miner and provides performance graphs for easy visualization of your Bitcoin mining activity.
+[EasyMiner](https://sourceforge.net/projects/easyminer/) is a GUI based software and it acts as a convenient wrapper for CGMiner and BFGMiner software. This software supports the getwork mining protocol as well as stratum mining protocol. It can also be used for both solo and pooled mining. Among its main features is that it configures your miner and provides performance graphs for easy visualization of your mining activity.
 
 ## Bitcoin Mining Software for Mac OS X
 
 ### RPC Miner
 
-This software can be used on Mac OS 10.6 or higher and features integration with Mac OS APIs and systems.
+[RPC Miner](https://en.bitcoin.it/wiki/RPC_Miner) can be used on Mac OS 10.6 or higher and features integration with Mac OS APIs and systems.
 
-### CGMiner
+### More Software
 
-This software is arguably the most famous and the most common software among Bitcoin’s miners at the moment. CGMiner is based on the original code of CPU Miner which in my opinion makes it more popular mostly on the conservatives. This software has many features but I will only mention the main ones which include: fans speed control, remote interface capabilities, self-detection of new blocks with a mini database and multi GPU support and CPU mining support.
-
-### BFGMiner
-
-BFGMiner is more or less the same as CGMiner with the only major difference being it doesn’t focus on GPUs like CGMiner but instead it is designed specifically for FPGA and AISCs. This software has some very interesting features that are worth looking at. These features include: supports mining with free mesa/LLVM OpenCL, ADL device reordering by PCI bus ID, integrated overclocking and fan control.
-
-### EasyMiner
-
-EasyMiner is a GUI based software and it acts as a convenient wrapper for CGMiner and BFGMiner software. This software supports the getwork mining protocol as well as stratum mining protocol. It can also be used for both solo and pooled mining therefore making it very convenient. Among its main features is that it configures your miner and provides performance graphs for easy visualization of your Bitcoin mining activity.
-
-You may have noticed that I have included some of the software in each of the three categories i.e. Windows, Linux and Mac OS. This is because am of the view that the best Bitcoin mining software should run on almost any operating system as this gives you flexibility which is a very important factor in this ever changing world of Bitcoin mining.
+All of the mining software above listed for Linux and Windows also works for Mac OS X. Scroll up yo learn more!  
 
 ## Cash Out your Coins
 
