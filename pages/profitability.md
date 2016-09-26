@@ -6,6 +6,9 @@ layout: page
 ---
 The early days of Bitcoin mining are often described as a gold rush. Satoshi Nakomoto’s invention of Bitcoin, [“a peer-to-peer electronic cash system,”](https://bitcoin.org/bitcoin.pdf) opened up an entirely new frontier, not just of freedom but of profit. Those with a strong interest in such things, namely cypherpunks, cryptographers, technically-minded libertarians and assorted hackers, were first to stake their claim.
 
+* Table of Contents
+{:toc}
+
 _But is there still gold in them thar hills?_
 
 The fact is that Bitcoin mining has grown from a handful of early enthusiasts to a cottage industry to a specialised industrial-level venture. The easy money was scooped out long ago and what remains is buried under the cryptographic equivalent of miles of hard rock.
