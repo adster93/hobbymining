@@ -103,7 +103,7 @@ For interest’s sake, let’s examine the situation of Chinese miners, who repr
 
 Certain Chinese regions are over-supplied with electricity, which is also often subsidized. This makes for a really low power cost, which we’ll assume to be 7c for a miner in the right province. Further, most mining hardware is fabricated in China and so can likely be purchased cheaper (and received sooner) by denizens of the Middle Kingdom. We’ll assume a ¾ hardware price.
 
-## Results:
+### Results
 
 * A small-time Chinese miner with a single S7 connected to AntPool could have made over $1000 annually before the Difficulty spike. That’s twice the profit of their American counterpart!
 * After the halving and Difficulty spike, the same miner would lose about $40 per year. For a Bitcoin enthusiast, this is an easily-acceptable loss.
@@ -112,7 +112,7 @@ Certain Chinese regions are over-supplied with electricity, which is also often 
 
 Large-scale mining operations will locate proximate to cheap power sources in remote provinces. Hydro-electric power from dams is a popular option. We can assume a very low _power cost_ for such enterprises, let’s say 5c. Such operations also buy _hardware_ in bulk so we’ll assume they get S7s at half-price, $325\. One thousand S7 units seems a plausible number, which allows us to simply add three zeros to _hash rate_, _hardware_ and _power costs_. Finally, such setups often run their own pools and so we’ll assume zero pool fees.
 
-## Results:
+### Results
 
 * Before the halving and Difficulty spike, the operation would net $1.4m annually.
 * After the halving and Difficulty spike, the operation would profit by about $200k annually.
