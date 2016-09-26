@@ -17,7 +17,7 @@ Bitcoin mining software monitors this input and output of your miner while also 
 
 ## Bitcoin Wallets
 
-One of the most important things you will need before using any kind of Bitcoin mining software is a wallet. This is because all Bitcoin mining software will ask you for a Bitcoin address that will be used to send your mining rewards and payouts. 
+One of the most important things you will need before using any kind of Bitcoin mining software is a wallet. This is because all Bitcoin mining software will ask you for a Bitcoin address that will be used to send your mining rewards and payouts. Once you create or download a wallet you will be able to get a Bitcoin address from your wallet. 
 
 There are many Bitcoin wallets, but these are the ones we recommend if you are just starting out: 
 
@@ -25,9 +25,9 @@ There are many Bitcoin wallets, but these are the ones we recommend if you are j
 * **[Mycelium](https://wallet.mycelium.com/)** - The most popular Bitcoin wallet on Android. 
 * **[breadwallet](https://breadwallet.com/)** - The most popular Bitcoin wallet for iOS. 
  
-If you expect to earn a lot of money through mining then it would be smart to purchase more secure wallet: a hardware wallet. If you are just getting into it the [Ledger Nano S](http://buybitcoinww.co/Ledger_Nano_S) costs about $60 and will keep your coins super secure.  
+If you expect to earn a lot of money through mining then it would be smart to purchase a more secure wallet: a hardware wallet. If you are just getting into it the [Ledger Nano S](http://buybitcoinww.co/Ledger_Nano_S) costs about $60 and will keep your coins super secure.  
 
-Now that we understand mining software and how it helps in the mining process, and you got your Bitcoin wallet and address, let us now look at different software on different operating systems.
+Now that we understand mining software and how it helps in the mining process, and you got your Bitcoin wallet and address, let's look at different software on different operating systems.
 
 ## Bitcoin Mining Software for Windows
 
