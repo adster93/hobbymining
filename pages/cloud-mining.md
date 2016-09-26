@@ -7,6 +7,9 @@ layout: page
 
 Want to find the best Bitcoin cloud mining contracts? This post has you covered. 
 
+* Table of Contents
+{:toc}
+
 ## Most Bitcoin Cloud Mining Companies are Scams
 
 Like the heading says, most cloud mining contracts are scams. Why? Because it's easy for companies to take peoples' money, and then not pay out. A company can claim to be a cloud mining company without any proof of actually owning any hardware. 
