@@ -10,9 +10,11 @@
     // function getCountryWithIp() {
 function changeUrlBasedOnCountry() {
     $.ajax({
-        url: 'http://ip-api.com/json',
+
+        url: 'http://cors.io/?http://ip-api.com/json',
         success: function(data) {
-            console.log(data.country)
+            var dataToParse = JSON.parse(data)
+
             var country = data.country
             switch (country) {
                 //Done for US
@@ -20,6 +22,7 @@ function changeUrlBasedOnCountry() {
                     // console.log(true)
                     // $('.antminers7').attr("href" , "http://rover.ebay.com/rover/1/" + unitedStatesCountryCode + "/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804714&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep&kwid=902099&mtid=824&kw=lg")
                     $('.tableMiners').attr("href", "{{miner.usUrl}}")
+                    console.log("here")
                     
                     break;
                 case "Australia":
