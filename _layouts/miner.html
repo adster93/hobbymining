@@ -1,7 +1,113 @@
 ---
 layout: default
 ---
+<script type="text/javascript">
+	$(document).ready(function(){
+		console.log("working")
+		
+        changeUrlBasedOnCountry()
+            // changeUrlBasedOnCountry()
+            // $('.antminers7').attr('<href>')
+    })
+    // function getCountryWithIp() {
+function changeUrlBasedOnCountry() {
+    $.ajax({
+        url: 'http://ip-api.com/json',
+        success: function(data) {
+            console.log(data.country)
+            var country = data.country
+            switch (country) {
+                //Done for US
+                case "United States":
+                    // console.log(true)
+                    // $('.antminers7').attr("href" , "http://rover.ebay.com/rover/1/" + unitedStatesCountryCode + "/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804714&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep&kwid=902099&mtid=824&kw=lg")
+                    $('.firstLink').attr("href", "{{page.usUrl}}")
+                    $('.secondLink').attr("href", "{{page.usUrl}}")
+                    $('.thirdLink').attr("href", "{{page.usUrl}}")
+                    break;
+                case "Australia":
+     				$('.firstLink').attr("href", "{{page.auUrl}}")
+     				$('.secondLink').attr("href", "{{page.auUrl}}")
+     				$('.thirdLink').attr("href", "{{page.auUrl}}" )
+                    
+                    break;
+                case "Belgium":
+          		$('.firstLink').attr("href", "{{page.beUrl}}")
+     				$('.secondLink').attr("href","{{page.beUrl}}" )
+     				$('.thirdLink').attr("href", "{{page.beUrl}}" )
+                    
+                    break;
+                case "Canada":
+            	$('.firstLink').attr("href", "{{page.caUrl}}")
+     				$('.secondLink').attr("href", "{{page.caUrl}}")
+     				$('.thirdLink').attr("href", "{{page.caUrl}}")
+                    
+                    break;
+                case "Spain":
+         		$('.firstLink').attr("href", "{{page.spUrl}}")
+     				$('.secondLink').attr("href", "{{page.spUrl}}")
+     				$('.thirdLink').attr("href", "{{page.spUrl}}")
+                    
+                    break;
+                case "France":
+       			$('.firstLink').attr("href", "{{page.frUrl}}")
+     				$('.secondLink').attr("href", "{{page.frUrl}}")
+     				$('.thirdLink').attr("href", "{{page.frUrl}}")
+                    
+                    break;
+                case "Italy":
+          		$('.firstLink').attr("href", "{{page.itUrl}}")
+     				$('.secondLink').attr("href", "{{page.itUrl}}")
+     				$('.thirdLink').attr("href", "{{page.itUrl}}")
+                    
+                    break;
+                case "United Kingdom":
+          		$('.firstLink').attr("href", "{{page.ukUrl}}")
+     				$('.secondLink').attr("href", "{{page.ukUrl}}")
+     				$('.thirdLink').attr("href", "{{page.ukUrl}}")
+                    
+                    break;
+                
+                case "Ireland":
+        
+                    
+                    break;
+                case "Germany":
+         		$('.firstLink').attr("href", "{{page.geUrl}}")
+     				$('.secondLink').attr("href", "{{page.geUrl}}")
+     				$('.thirdLink').attr("href", "{{page.geUrl}}")
+                    
+                    break;
+                // case "Switzerland":
+                //     $('.antminers7').attr("href", 'http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337910375&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg')
+                //     $('.spondoolies').attr("href", 'http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804716&customid=&icep_uq=Spondoolies-Tech+SP20&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg')
+                //     $('.avalon6').attr("href","http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&amp;pub=5574973039&amp;toolid=10001&amp;campid=5337910379&amp;customid=&amp;icep_uq=avalon6&amp;icep_sellerId=&amp;icep_ex_kw=&amp;icep_sortBy=12&amp;icep_catId=&amp;icep_minPrice=&amp;icep_maxPrice=&amp;ipn=psmain&amp;icep_vectorid=229466&amp;kwid=902099&amp;mtid=824&amp;kw=lg")
+                //     $('.coolingFans').attr("href", "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&amp;pub=5574973039&amp;toolid=10001&amp;campid=5337804665&amp;customid=&amp;icep_uq=cooling+fan&amp;icep_sellerId=&amp;icep_ex_kw=&amp;icep_sortBy=12&amp;icep_catId=&amp;icep_minPrice=&amp;icep_maxPrice=&amp;ipn=psmain&amp;icep_vectorid=229466&amp;kwid=902099&amp;mtid=824&amp;kw=lg" )
+                //     $('.bitcoinMiningSupplies').attr("href", "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&icep_uq=bitcoin+miner+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" )
+                //     $('.bitcoinUsbMiner').attr("href", "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=bitcoin+usb+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" )
+                    
+                //     break;
+                // case "Netherlands":
+                //     $('.antminers7').attr("href", 'http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337910375&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg')
+                //     $('.spondoolies').attr("href", 'http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804716&customid=&icep_uq=Spondoolies-Tech+SP20&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg')
+                //     $('.avalon6').attr("href","http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&amp;pub=5574973039&amp;toolid=10001&amp;campid=5337910379&amp;customid=&amp;icep_uq=avalon6&amp;icep_sellerId=&amp;icep_ex_kw=&amp;icep_sortBy=12&amp;icep_catId=&amp;icep_minPrice=&amp;icep_maxPrice=&amp;ipn=psmain&amp;icep_vectorid=229466&amp;kwid=902099&amp;mtid=824&amp;kw=lg")
+                //     $('.coolingFans').attr("href", "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&amp;pub=5574973039&amp;toolid=10001&amp;campid=5337804665&amp;customid=&amp;icep_uq=cooling+fan&amp;icep_sellerId=&amp;icep_ex_kw=&amp;icep_sortBy=12&amp;icep_catId=&amp;icep_minPrice=&amp;icep_maxPrice=&amp;ipn=psmain&amp;icep_vectorid=229466&amp;kwid=902099&amp;mtid=824&amp;kw=lg" )
+                //     $('.bitcoinMiningSupplies').attr("href", "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804665&customid=&icep_uq=bitcoin+miner+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" )
+                //     $('.bitcoinUsbMiner').attr("href", "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804727&customid=&icep_uq=bitcoin+usb+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" )
+                    
+                //     break;
+                case "Austria":
+                    
+                    break;
+                default:
+                   $('.antminers7').attr("href", 'http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337910375&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg')
+                    
+            }
+        }
+    })
+}
 
+</script>
 <div class="post-header">
   <h1 class="post-title-main">{{ page.title }}</h1>
 </div>
@@ -50,15 +156,15 @@ layout: default
 	</div>
 	{% endif %}
 	
-	<a type="button" href="{{ page.buyurl }}" rel="nofollow" target="_blank" class="btn wallet-btn-top btn-primary"><i class="fa fa-bitcoin"></i> Buy {{ page.miner_name }}</a>
+	<a type="button" rel="nofollow" target="_blank" class="firstLink btn wallet-btn-top btn-primary"><i class="fa fa-bitcoin"></i> Buy {{ page.miner_name }}</a>
 
-		<a class="miner-img-body" href="{{ page.buyurl }}" rel="nofollow" target="_blank">
+		<a class="miner-img-body secondLink" rel="nofollow" target="_blank">
 	<img src="{{ page.img }}" />
 	</a>
 	
   {{ content }}
   
-  	<a type="button" href="{{ page.buyurl }}" rel="nofollow" target="_blank" class="btn wallet-btn-top btn-primary"><i class="fa fa-bitcoin"></i> Buy {{ page.miner_name }}</a>
+  	<a type="button" rel="nofollow" target="_blank" class="thirdLink btn wallet-btn-top btn-primary"><i class="fa fa-bitcoin"></i> Buy {{ page.miner_name }}</a>
 
 <h2>More Mining Hardware</h2>
 

@@ -1,6 +1,10 @@
+
 <tr>
-  	<td><a target="_blank" rel="nofollow" href="{{ miner.buyurl }}"><img src="{{ miner.img }}" alt="{{ miner.name }}"></a></td>
+
+    <!-- ebay image link -->
+  	<td><a target="_blank" rel="nofollow" class="tableMiners" ><img src="{{ miner.img }}" alt="{{ miner.name }}"></a></td>
    
+   <!-- miner column -->
     <td>
     {% if miner.pro1 %}
     	<a href="{{ miner.permalink }}">
@@ -11,9 +15,11 @@
     </a>
     </td>
     
+
+
     <td>{{ miner.hashp }}</td>
        
     <td class="miner-price">{{ miner.price }}</td>
     
-    <td class="miner-buy"><a target="_blank" class="btn btn-primary" rel="nofollow" href="{{ miner.buyurl }}" type="button"><i class="fa fa-shopping-cart "></i></a></td>
+    <td class="miner-buy"><a target="_blank" class="btn btn-primary buyMinerButton" rel="nofollow" href="{{ miner.buyurl }}" type="button"><i class="fa fa-shopping-cart "></i></a></td>
 </tr>
