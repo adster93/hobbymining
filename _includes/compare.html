@@ -9,7 +9,7 @@
     {% if miner.pro1 %}
     	<a href="{{ miner.permalink }}">
     {% else %}
-    	<a target="_blank" rel="nofollow" href="{{ miner.buyurl }}">
+    	<a target="_blank" class="tableMiners" rel="nofollow" >
     {% endif %}
     {{ miner.miner_name }}
     </a>
@@ -21,5 +21,5 @@
        
     <td class="miner-price">{{ miner.price }}</td>
     
-    <td class="miner-buy"><a target="_blank" class="btn btn-primary buyMinerButton" rel="nofollow" href="{{ miner.buyurl }}" type="button"><i class="fa fa-shopping-cart "></i></a></td>
+    <td class="miner-buy"><a target="_blank" class="btn btn-primary tableMiners" rel="nofollow" type="button"><i class="fa fa-shopping-cart "></i></a></td>
 </tr>
