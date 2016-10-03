@@ -14,7 +14,7 @@ function changeUrlBasedOnCountry() {
         url: 'http://cors.io/?http://ip-api.com/json',
         success: function(data) {
             var dataToParse = JSON.parse(data)
-
+            console.log(data.country)
             var country = data.country
             switch (country) {
                 //Done for US
