@@ -5,95 +5,9 @@ seotitle: "5 Best Bitcoin Mining Hardware ASICs 2016 (Comparison)"
 layout: page
 desc: Quickly learn where to buy the best Bitcoin mining hardware ASICs using this comparison chart.
 ---
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.js"></script>
 
 
-<script> 
-    $(document).ready(function(){
-        console.log("working")
-        
-        changeUrlBasedOnCountry()
-            // changeUrlBasedOnCountry()
-            // $('.antminers7').attr('<href>')
-    })
-    // function getCountryWithIp() {
-function changeUrlBasedOnCountry() {
-    $.ajax({
-        url: 'http://ip-api.com/json',
-        success: function(data) {
-            console.log(data.country)
-            var country = data.country
-            switch (country) {
-                //Done for US
-                case "United States":
-                    // console.log(true)
-                    // $('.antminers7').attr("href" , "http://rover.ebay.com/rover/1/" + unitedStatesCountryCode + "/1?icep_ff3=9&pub=5574973039&toolid=10001&campid=5337804714&customid=&icep_uq=antminer+s7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep&kwid=902099&mtid=824&kw=lg")
-                    $('.tableMiners').attr("href", "{{miner.usUrl}}")
-                    $('.buyMinerButton').attr("href", "{{miner.usUrl}}")
-                    
-                    break;
-                case "Australia":
-                    $('.tableMiners').attr("href", "{{miner.auUrl}}")
-                    $('.buyMinerButton').attr("href", "{{miner.auUrl}}")
-                    
-                    
-                    break;
-                case "Belgium":
-                $('.tableMiners').attr("href", "{{miner.beUrl}}")
-                $('.buyMinerButton').attr("href","{{miner.beUrl}}" )
-                    
-                    
-                    break;
-                case "Canada":
-                $('.tableMiners').attr("href", "{{miner.caUrl}}")
-                    $('.buyMinerButton').attr("href", "{{miner.caUrl}}")
-                    
-                    
-                    break;
-                case "Spain":
-                $('.tableMiners').attr("href", "{{miner.spUrl}}")
-                    $('.buyMinerButton').attr("href", "{{miner.spUrl}}")
-                    
-                    
-                    break;
-                case "France":
-                $('.tableMiners').attr("href", "{{miner.frUrl}}")
-                    $('.buyMinerButton').attr("href", "{{miner.frUrl}}")
-                    
-                    
-                    break;
-                case "Italy":
-                $('.tableMiners').attr("href", "{{miner.itUrl}}")
-                    $('.buyMinerButton').attr("href", "{{miner.itUrl}}")
-                    
-                    
-                    break;
-                case "United Kingdom":
-                $('.tableMiners').attr("href", "{{miner.ukUrl}}")
-                    $('.buyMinerButton').attr("href", "{{miner.ukUrl}}")
-                    
-                    
-                    break;
-                
-                case "Ireland":
-        
-                    
-                    break;
-                case "Germany":
-                $('.tableMiners').attr("href", "{{miner.geUrl}}")
-                    $('.buyMinerButton').attr("href", "{{miner.geUrl}}")
-                    
-                    
-                    break;
-           
-                default:
-                $('.tableMiners').attr("href", "{{miner.usUrl}}")
-                $('.buyMinerButton').attr("href", "{{miner.usUrl}}")                    
-            }
-        }
-    })
-}
-
-</script>
 Hobby Bitcoin mining can still be fun and even profitable if you have cheap electricity, an efficient bitcoin mining machine, and get the best Bitcoin mining hardware. 
 
 ## Bitcoin Mining Hardware Comparison
@@ -112,6 +26,7 @@ Hobby Bitcoin mining can still be fun and even profitable if you have cheap elec
   {% endif %}
   {% endfor %}
 </table>
+
 
 
 
